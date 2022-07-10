@@ -3,11 +3,11 @@
 
 ## 🐯 yaong-study
 
-|팀 원|repository 주소|
-|:--|:--|
-|[SEB_FE_39 송슬기](https://github.com/songseul)||
-|[SEB_FE_39 정환민](https://github.com/JEONGHWANMIN)||
-|[SEB_FE_39 김현호](https://github.com/ryan-kim-dev)||
-|[SEB_FE_39 김소희](https://github.com/sohee063)||
-|[SEB_FE_39 이규림](https://github.com/Kyoorim)||
-|[SEB_FE_39 전이진](https://github.com/pongdang)||
+|팀 원|Github 아이디|repository 주소|
+|:--|:--|:--|
+|[SEB_FE_39 송슬기](https://github.com/songseul)|songseul||
+|[SEB_FE_39 정환민](https://github.com/JEONGHWANMIN)|JEONGHWANMIN||
+|[SEB_FE_39 김현호](https://github.com/ryan-kim-dev)|ryan-kim-dev||
+|[SEB_FE_39 김소희](https://github.com/sohee063)|sohee063||
+|[SEB_FE_39 이규림](https://github.com/Kyoorim)|Kyoorim||
+|[SEB_FE_39 전이진](https://github.com/pongdang)|pongdang|[pongdang/profile](https://github.com/pongdang/profile)|
