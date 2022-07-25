@@ -5,7 +5,7 @@
 
 |팀 원|Github 아이디|repository 주소|
 |:--|:--|:--|
-|[SEB_FE_39 송슬기](https://github.com/songseul)|songseul||
+|[SEB_FE_39 송슬기](https://github.com/songseul)|songseul||(https://github.com/songseul/react_portfolio)
 |[SEB_FE_39 정환민](https://github.com/JEONGHWANMIN)|JEONGHWANMIN|[JEONGHWANMIN/profile](https://github.com/JEONGHWANMIN/profile)|
 |[SEB_FE_39 김현호](https://github.com/ryan-kim-dev)|ryan-kim-dev|[ryan-kim-dev/my-portfolio-app](https://github.com/ryan-kim-dev/my-portfolio-app)|
 |[SEB_FE_39 김소희](https://github.com/sohee063)|sohee063||
